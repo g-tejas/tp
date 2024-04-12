@@ -42,6 +42,7 @@
       "headings": {
         "ta-toolkit-developer-guide": "TA Toolkit Developer Guide",
         "acknowledgements": "Acknowledgements",
+        "ng-yu-soon-s-acknowledgements": "Ng Yu Soon's Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
@@ -79,8 +80,10 @@
         "exit": "Exit",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements",
         "better-name-validation": "Better name validation",
+        "better-email-validation": "Better email validation",
         "better-identification-of-unique-students": "Better identification of unique students",
-        "more-comprehensive-attendance-taking": "More comprehensive attendance taking"
+        "more-comprehensive-attendance-taking": "More comprehensive attendance taking",
+        "handling-duplicate-keys-in-json-object": "Handling duplicate keys in JSON object"
       },
       "headingKeywords": {}
     },
@@ -165,6 +168,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/g-tejas.md",
+      "title": "Tejas Garrepally's Project Portfolio Page",
+      "headings": {
+        "project-tatoolkit": "Project: TaToolkit"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/ivan.md",
       "title": "Ivan's Project Portfolio Page",
       "headings": {
@@ -174,24 +185,9 @@
     },
     {
       "src": "team/kailashgautham.md",
+      "title": "Kailash Gautham's Project Portfolio Page",
       "headings": {
         "project-tatoolkit": "Project: TaToolkit"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "team/ngyusoon.md",
-      "title": "Yu Soon's Project Portfolio Page",
-      "headings": {
-        "project-tatoolkit-level-3": "Project: TaToolkit Level 3"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "team/tejasgarrepally.md",
-      "title": "Tejas Garrepally's Project Portfolio Page",
-      "headings": {
-        "project-tatoolkit-level-3": "Project: TaToolkit Level 3"
       },
       "headingKeywords": {}
     },
@@ -200,6 +196,17 @@
       "title": "Axel's Project Portfolio Page",
       "headings": {
         "project-tatoolkit-level-3": "Project: TaToolkit Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/yusoonz.md",
+      "title": "Yu Soon's Project Portfolio Page",
+      "headings": {
+        "project-tatoolkit-level-3": "Project: TaToolkit Level 3",
+        "technical-skills": "Technical Skills",
+        "challenges-and-problem-solving": "Challenges and Problem-Solving",
+        "results-and-impact": "Results and Impact"
       },
       "headingKeywords": {}
     },
